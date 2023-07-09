@@ -12,6 +12,28 @@
   "rota": ["1", "rotae", "wheel"],
   "tabula": ["1", "tabulae", "tablet"],
   "via": ["1", "viae", "road"],
-  "vita": ["1", "vitae", "life"]
+  "vita": ["1", "vitae", "life"],
+  "ancilla": ["1", "ancillae", "slave girl"],
+  "epistula": ["1", "epistulae", "letter"],
+  "femina": ["1", "feminae", "woman"],
+  "insula": ["1", "insulae", "island"],
+  "pecunia": ["1", "pecuniae", "money"],
+  "puella": ["1", "puellae", "girl"],
+  "Roma": ["1", "Romae", "Rome"],
+  "villa": ["1", "villae", "house"],
+  "pestilentia": ["1", "pestilentiae", "plague"],
+  "casa": ["1", "casae", "hut"],
+  "Troia": ["1", "Troiae", "Troy"],
+  "victoria": ["1", "victoriae", "victory"],
+  "porta": ["1", "portae", "gate"],
+  "familia": ["1", "familiae", "family"],
+  "hora": ["1", "horae", "hour"],
+  "taberna": ["1", "tabernae", "shop"]
+
+
+
+
+
+
   
 }
