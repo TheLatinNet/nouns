@@ -65,5 +65,7 @@
   "auriga": ["1", "aurigae", "driver"],
   "constantia": ["1", "constantiae", "determination"],
   "stultitia": ["1", "stultitiae", "foolishness"],
-  "invidida": ["1", "invidiae", "envy"]
+  "invidida": ["1", "invidiae", "envy"],
+  "rosa": ["1", "rosae", "rose"],
+  "aquila": ["1", "aquilae", "eagle"]
 }
