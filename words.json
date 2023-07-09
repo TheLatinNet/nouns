@@ -28,12 +28,42 @@
   "porta": ["1", "portae", "gate"],
   "familia": ["1", "familiae", "family"],
   "hora": ["1", "horae", "hour"],
-  "taberna": ["1", "tabernae", "shop"]
-
-
-
-
-
-
-  
+  "taberna": ["1", "tabernae", "shop"],
+  "umbra": ["1", "umbrae", "ghost"],
+  "patria": ["1", "patriae", "homeland"],
+  "terra": ["1", "terrae", "land"],
+  "Italia": ["1", "Italiae", "Italy"],
+  "ala": ["1", "alae", "wing"],
+  "ungula": ["1", "ungulae", "claw"],
+  "cena": ["1", "cenae", "meal"],
+  "regina": ["1", "reginae", "queen"],
+  "mensa": ["1", "mensae", "table"],
+  "Sicilia": ["1", "Siciliae", "Sicily"],
+  "domina": ["1", "dominae", "mistress"],
+  "nauta": ["1", "nautae", "sailor"],
+  "silva", ["1", "silvae", "forest"],
+  "spelunca": ["1", "speluncae", "cave"],
+  "hasta": ["1", "hastae", "spear"],
+  "nebula": ["1", "nebulae", "cloud"],
+  "fabula": ["1", "fabulae", "story"],
+  "regia": ["1", "regiae", "palace"],
+  "filia": ["1", "filiae", "daughter"],
+  "sagitta": ["1", "sagittae", "arrow"],
+  "turba": ["1", "turbae", "crowd"],
+  "ora": ["1", "orae", "coast"],
+  "saga": ["1", "sagae", "witch"],
+  "patella": ["1", "patellae", "plate"],
+  "ripa": ["1", "ripae", "riverbank"],
+  "vacca": ["1", "vacae", "cow"],
+  "ira": ["1", "irae", "anger"],
+  "lupa": ["1", "lupae", "she-wolf"],
+  "doctrina": ["1", "doctrinae", "learning"],
+  "sapientia": ["1", "sapientiae", "wisdom"],
+  "caepa": ["1", "caepae", "onion"],
+  "flamma": ["1", "flammae", "flame"],
+  "sella": ["1", "sellae", "throne"],
+  "auriga": ["1", "aurigae", "driver"],
+  "constantia": ["1", "constantiae", "determination"],
+  "stultitia": ["1", "stultitiae", "foolishness"],
+  "invidida": ["1", "invidiae", "envy"]
 }
