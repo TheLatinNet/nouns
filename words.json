@@ -3,6 +3,15 @@
   "causa": ["1", "causae", "reason"],
   "cura": ["1", "curae", "care"],
   "fama": ["1", "famae", "report"],
-  "forma": ["1", "formae", "shape"]
+  "forma": ["1", "formae", "shape"],
+  "fortuna": ["1", "fortunae", "luck"],
+  "gloria": ["1", "gloriae", "fame"],
+  "gratia": ["1", "gratiae", "thanks"],
+  "lingua": ["1", "linguae", "tongue"],
+  "litera": ["1", "literae", "letter"],
+  "rota": ["1", "rotae", "wheel"],
+  "tabula": ["1", "tabulae", "tablet"],
+  "via": ["1", "viae", "road"],
+  "vita": ["1", "vitae", "life"]
   
 }
