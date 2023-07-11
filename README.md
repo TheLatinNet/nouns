@@ -5,7 +5,7 @@ The open-source library where we store all the nouns The Latin Net uses.
 ## Contributions
 The file `words.json` contains many different nouns and some information about them:
 ```
-"servus": ["2", "servi", "slave"]
+"servus": ["2", "servi", "slave", "slaves"]
 ```
 The above example uses the noun 'servus' which means slave. Along with it is:
 * The declension it is in
@@ -18,16 +18,17 @@ The above example uses the noun 'servus' which means slave. Along with it is:
   * dec. 5 for nouns that go like "res, rei"
 * The genitive in the singular form
 * Its translation in English
+* The translation in plura;
 
 Here are examples for all declensions:
 ```
-"epistula": ["1", "epistulae", "letter"]
-"equus": ["2", "equi", "horse"]
-"donum": ["2n", "doni", "gift"]
-"clamor": ["3", "clamoris", "noise"]
-"nomen": ["3n", "nominis", "name"]
-"manus": ["4", "manus", "hand"]
-"fides": ["5", "fidei", "faith"]
+"epistula": ["1", "epistulae", "letter", "letters"]
+"equus": ["2", "equi", "horse", "horses"]
+"donum": ["2n", "doni", "gift", "gifts"]
+"clamor": ["3", "clamoris", "noise", "noises"]
+"nomen": ["3n", "nominis", "name", "names"]
+"manus": ["4", "manus", "hand", "hands"]
+"fides": ["5", "fidei", "faith", "faiths"]
 ```
 
 Fork this repository and add your noun to the end of the previous one, remembering to **add a comma**.
