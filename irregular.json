@@ -1,10 +1,10 @@
 {
-  "vir": ["2", "vir", "viri", "man"],
-  "puer": ["2", "puer", "pueri", "boy"],
-  "liber": ["2", "libr", "libri", "book"],
-  "mater": ["3", "matr", "matris", "mother"],
-  "pater": ["3", "patr", "patris", "father"],
-  "frater": ["3", "fratr", "fratris", "brother"],
-  "magister": ["2", "magistr", "magistri", "teacher"],
-  "faber": ["2", "fabr", "fabri", "smith"],
+  "vir": ["2", "viri", "man", "men", "vir"],
+  "puer": ["2", "pueri", "boy", "boys", "puer"],
+  "liber": ["2", "libri", "book", "books", "libr"],
+  "mater": ["3", "matris", "mother", "mothers", "matr"],
+  "pater": ["3", "patris", "father", "fathers", "patr"],
+  "frater": ["3", "fratris", "brother", "brothers", "fratr"],
+  "magister": ["2", "magistri", "teacher", "teachers", "magistr"],
+  "faber": ["2", "fabri", "smith", "smiths", "fabr"],
 }
