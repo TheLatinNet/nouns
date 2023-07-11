@@ -3,5 +3,8 @@
   "puer": ["2", "puer", "pueri", "boy"],
   "liber": ["2", "libr", "libri", "book"],
   "mater": ["3", "matr", "matris", "mother"],
-
+  "pater": ["3", "patr", "patris", "father"],
+  "frater": ["3", "fratr", "fratris", "brother"],
+  "magister": ["2", "magistr", "magistri", "teacher"],
+  "faber": ["2", "fabr", "fabri", "smith"],
 }
