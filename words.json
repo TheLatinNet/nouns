@@ -44,7 +44,7 @@
   "nauta": ["1", "nautae", "sailor", "sailors", "h", "m"],
   "agricola": ["1", "agricolae", "farmer", "farmers", "h", "m"],
   "poeta": ["1", "poetae", "poet", "poets", "h", "m"],
-  "incola": ["1", "incolae", "inhabitant", "inhabitants", "h", "m"]
+  "incola": ["1", "incolae", "inhabitant", "inhabitants", "h", "m"],
   "silva": ["1", "silvae", "forest", "forests", "t", "f"],
   "spelunca": ["1", "speluncae", "cave", "caves", "t", "f"],
   "hasta": ["1", "hastae", "spear", "spears", "t", "f"],
