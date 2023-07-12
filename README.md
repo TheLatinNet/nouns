@@ -5,7 +5,7 @@ The open-source library where we store all the nouns The Latin Net uses.
 ## Contributions
 The file `words.json` contains many different nouns and some information about them:
 ```
-"servus": ["2", "servi", "slave", "slaves"]
+"servus": ["2", "servi", "slave", "slaves", "h"]
 ```
 The above example uses the noun 'servus' which means slave. Along with it is:
 * The declension it is in
@@ -18,17 +18,20 @@ The above example uses the noun 'servus' which means slave. Along with it is:
   * dec. 5 for nouns that go like "res, rei"
 * The genitive in the singular form
 * Its translation in English
-* The translation in plura;
+* The translation in plural
+* Whether it is a human or a thing.
+  * If it is a human - can experience emotion - (like "puella, girl" or "rex, regis") use "h".
+  * If it is a thing (like "hortus, horti" or "manus, manus") use "t"
 
 Here are examples for all declensions:
 ```
-"epistula": ["1", "epistulae", "letter", "letters"]
-"equus": ["2", "equi", "horse", "horses"]
-"donum": ["2n", "doni", "gift", "gifts"]
-"clamor": ["3", "clamoris", "noise", "noises"]
-"nomen": ["3n", "nominis", "name", "names"]
-"manus": ["4", "manus", "hand", "hands"]
-"fides": ["5", "fidei", "faith", "faiths"]
+"epistula": ["1", "epistulae", "letter", "letters", "t"]
+"equus": ["2", "equi", "horse", "horses", "h"]
+"donum": ["2n", "doni", "gift", "gifts", "t"]
+"clamor": ["3", "clamoris", "noise", "noises", "t"]
+"nomen": ["3n", "nominis", "name", "names", "t"]
+"manus": ["4", "manus", "hand", "hands", "t"]
+"fides": ["5", "fidei", "faith", "faiths", "t"]
 ```
 
 Fork this repository and add your noun to the end of the previous one, remembering to **add a comma**.
