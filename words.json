@@ -1,5 +1,6 @@
 {
   "aqua": ["1", "aquae", "water", "water"],
+  "dea": ["1", "deae", "goddess", "goddesses"],
   "causa": ["1", "causae", "reason", "reasons"],
   "cura": ["1", "curae", "care", "cares"],
   "fama": ["1", "famae", "report", "reports"],
@@ -68,5 +69,7 @@
   "invidida": ["1", "invidiae", "envy", "envies"],
   "rosa": ["1", "rosae", "rose", "roses"],
   "aquila": ["1", "aquilae", "eagle", "eagles"],
-  "stella": ["1", "stellae", "star", "stars"]
+  "stella": ["1", "stellae", "star", "stars"],
+  "amicus": ["2", "amici", "friend", "friends"],
+  "cibus": ["2", "cibi", "food", "food"]
 }
