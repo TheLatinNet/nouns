@@ -76,5 +76,13 @@
   "amicus": ["2", "amici", "friend", "friends", "h", "m"],
   "cibus": ["2", "cibi", "food", "food", "t", "m"],
   "rex": ["3", "regis", "king", "kings", "h", "m"],
-  "clavis": ["3", "clavis", "key", "keys", "t", "f"]
+  "clavis": ["3", "clavis", "key", "keys", "t", "f"],
+  "vir": ["2", "viri", "man", "men", "h", "m"],
+  "puer": ["2", "pueri", "boy", "boys", "h", "m"],
+  "liber": ["2", "libri", "book", "books", "t", "m"],
+  "mater": ["3", "matris", "mother", "mothers", "h", "f"],
+  "pater": ["3", "patris", "father", "fathers", "h", "m"],
+  "frater": ["3", "fratris", "brother", "brothers", "h", "m"],
+  "magister": ["2", "magistri", "teacher", "teachers", "h", "m"],
+  "faber": ["2", "fabri", "smith", "smiths", "h", "m"]
 }
