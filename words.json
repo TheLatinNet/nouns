@@ -71,5 +71,6 @@
   "aquila": ["1", "aquilae", "eagle", "eagles", "h"],
   "stella": ["1", "stellae", "star", "stars", "t"],
   "amicus": ["2", "amici", "friend", "friends", "h"],
-  "cibus": ["2", "cibi", "food", "food", "t"]
+  "cibus": ["2", "cibi", "food", "food", "t"],
+  "rex": ["3", "regis", "king", "kings", "h"]
 }
