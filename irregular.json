@@ -6,5 +6,5 @@
   "pater": ["3", "patris", "father", "fathers", "h", "m", "patr"],
   "frater": ["3", "fratris", "brother", "brothers", "h", "m", "fratr"],
   "magister": ["2", "magistri", "teacher", "teachers", "h", "m", "magistr"],
-  "faber": ["2", "fabri", "smith", "smiths", "h", "m", "fabr"],
+  "faber": ["2", "fabri", "smith", "smiths", "h", "m", "fabr"]
 }
