@@ -19,10 +19,12 @@ The above example uses the noun 'servus' which means slave. Along with it is:
 * The genitive in the singular form
 * Its translation in English
 * The translation in plural
-* Whether it is a human or a thing.
+* Whether it is a human, place or a thing.
   * If it is a human - can experience emotion - (like "puella, girl" or "rex, regis") use "h".
-  * If it is a thing (like "hortus, horti" or "manus, manus") use "t"
+  * If it is a place (like "Troia, Troy" or "Italia, Italy") use "p".
+  * If it is a thing (like "hortus, horti" or "manus, manus") use "t".
 * Whether it is masculine (m), feminine (f) or neuter (n)
+* An English derivative
 
 Here are examples for all declensions:
 ```
