@@ -147,5 +147,7 @@
   "signum": ["2n", "signi", "signal", "signals", "t", "n", "signal"],
   "miraculum": ["2n", "miraculi", "miracle", "miracles", "t", "n", "miracle"],
   "oraculum": ["2n", "oraculi", "oracle", "oracles", "t", "n", "oracle"],
-  "osculum": ["2n", "osculi", "kiss", "kisses", "t", "n", "osculate"]
+  "osculum": ["2n", "osculi", "kiss", "kisses", "t", "n", "osculate"],
+  "fax": ["3", "facis", "torch", "torches", "t", "m", "firefax"],
+  "mons": ["3", "montis", "mountain", "mountains", "t", "m", "mount"]
 }
