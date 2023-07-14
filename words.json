@@ -193,5 +193,6 @@
   "sal": ["3n", "salis", "salt", "salts", "t", "n", "saline"],
   "pes": ["3", "pedis", "foot", "feet", "t", "m", "pedestrian"],
   "opus": ["3n", "operis", "work", "works", "t", "n", "operational"],
-  "clades": ["3", "cladis", "defeat", "defeats", "t", "f", "cladistics"]
+  "clades": ["3", "cladis", "defeat", "defeats", "t", "f", "cladistics"],
+  "nomen": ["3n", "nominis", "name", "names", "t", "n", "nomination"]
 }
