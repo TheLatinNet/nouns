@@ -5,7 +5,7 @@ The open-source library where we store all the nouns The Latin Net uses.
 ## Contributions
 The file `words.json` contains many different nouns and some information about them:
 ```
-"servus": ["2", "servi", "slave", "slaves", "h", "m"]
+"servus": ["2", "servi", "slave", "slaves", "h", "m", "serve"]
 ```
 The above example uses the noun 'servus' which means slave. Along with it is:
 * The declension it is in
@@ -28,13 +28,13 @@ The above example uses the noun 'servus' which means slave. Along with it is:
 
 Here are examples for all declensions:
 ```
-"epistula": ["1", "epistulae", "letter", "letters", "t", "f"]
-"equus": ["2", "equi", "horse", "horses", "h", "m"]
-"donum": ["2n", "doni", "gift", "gifts", "t", "n"]
-"clamor": ["3", "clamoris", "noise", "noises", "t", "m"]
-"nomen": ["3n", "nominis", "name", "names", "t", "n"]
-"manus": ["4", "manus", "hand", "hands", "t", "f"]
-"fides": ["5", "fidei", "faith", "faiths", "t", "f"]
+"epistula": ["1", "epistulae", "letter", "letters", "t", "f", "epistolary"]
+"equus": ["2", "equi", "horse", "horses", "h", "m", "equestrial"]
+"donum": ["2n", "doni", "gift", "gifts", "t", "n", "donation"]
+"clamor": ["3", "clamoris", "noise", "noises", "t", "m", "clamour"]
+"nomen": ["3n", "nominis", "name", "names", "t", "n", "nomination"]
+"manus": ["4", "manus", "hand", "hands", "t", "f", "manuscript"]
+"fides": ["5", "fidei", "faith", "faiths", "t", "f", "diffident"]
 ```
 
 Fork this repository and add your noun to the end of the previous one, remembering to **add a comma**.
